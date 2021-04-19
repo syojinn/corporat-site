@@ -5,7 +5,7 @@
 }
 
 .top-img {
-    background-image: url(images/img01.jpg);
+    background-image: url(/images/img01.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
@@ -30,7 +30,7 @@ nav i {
 }
 
 .night-sky {
-    background-image: url(images/fix-bg.jpg);
+    background-image: url(/images/fix-bg.jpg);
     background-size: cover;
     padding: 200px 0px;
     text-align: center;
