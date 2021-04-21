@@ -5,7 +5,7 @@
 }
 
 .top-img {
-    background-image: url(./images/img01.jpg);
+    background-image: url(images/img01.jpg);
     background-size: cover;
     background-attachment: fixed;
 }
